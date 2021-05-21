@@ -71,5 +71,3 @@ information):
 Guidelines for packaging MicroPython modules for PyPI:
 
  * https://github.com/micropython/micropython/issues/413
-
- just dummy change
